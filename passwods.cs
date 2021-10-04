@@ -4,7 +4,7 @@ using System.IO;
 using System.Security.Principal;
 using System.Text;
 
-namespace Dark__tealer__darkside_team
+namespace zeroday
 {
    class Passwords
    {
